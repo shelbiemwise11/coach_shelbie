@@ -1,0 +1,43 @@
+#centerBodyBodyPage{
+background-color: white;
+opacity: .9;
+margin-top: 20px ;
+margin-left: 10%;
+margin-right: 10%;
+margin-bottom: 10%;
+border: 2px solid gray;
+height: 50%;
+	
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url("DJB It's Our Choices.ttf");
+}
+
+p{
+margin-top: 80px;
+text-align:center;
+font-size: 18px;
+font-family: Sans-serif;
+}
+
+
+a{color: black;}
+a:visited{color: black;}
+a:hover{color:hotpink;}
+a:link{text-decoration: none;}
+
+
+
+img{
+
+padding: 20px;
+
+}
+img.hoverGRAY:hover{opacity:0.5;}
+
+li {
+margin-left:1%;
+display: inline;
+}  
